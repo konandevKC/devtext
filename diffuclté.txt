@@ -1,0 +1,13 @@
+-------------------------------------------difficulté rencontrés-------------------------------------------------
+1-création du systeme like dislike , qui m'a pris près de  4jour de recherche qui ces soldés par un refut de Mr par
+rapport au systeme que j'ai pu mettre en place car la methode ne permettait pas d'incrementer les actions effectué
+
+
+2-systeme de voir plus cet action ma mis très en retard car j'ai pratiquement fini mon projet j'ai utilisé jQuery
+ qui fessait l'action mais ne cachait pas en premier les informations présent sur la page.
+
+
+3-j'ai commencé a chercher des information pour ressoudre le systeme de trie ce qui consistait a filtrer les informations présents 
+sur la page en fonction des selections .etant a cour d'idée .
+j'ai du crée differente page sur lesquelle j'ai mis les information en suite j'ai fais le systeme en itulisant get pour 
+pour recupérer les id des page crées precedement
